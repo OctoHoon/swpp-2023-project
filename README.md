@@ -1,12 +1,11 @@
 
-# Our app : Eat and Tell (EaT)
+# 맛집 추천 SNS EAT(Eat And Tell)
 
-<img src="https://github.com/snuhcs-course/swpp-2023-project-team-15/assets/106653382/d84fddd3-65a6-4ddb-99ab-f0d6f9452691" width="150" height="150"/>
+![Team15_포스터](https://github.com/OctoHoon/swpp-2023-project/assets/89760986/4f7be48e-4786-4b8f-88bf-77bcf071e46e)
 
-
-EatAndTell is a restaurant review-dedicated SNS, motivated by the lack of personalization in existing restaurant review services. Just simply write restaurant reviews! Based on your reviews, our app creates tags for you to capture your taste. 
-With EatAndTell, enjoy a best-fit SNS tailored to your personal tastes and enhance your dining quality!
-
+## 프로젝트 소개
+- 해당 프로젝트는 2023학년도 2학기 서울대학교 컴퓨터공학부 전공 소프트웨어 개발의 원리와 실습 수업으로 진행된 프로젝트로, 팀원들이 직접 고안한 서비스 컨셉과 기획을 바탕으로 어플을 개발한 것입니다.
+- 사용자가 업로드한 맛집 리뷰를 바탕으로 사용자의 취향을 분석하고 그와 어울리는 태그를 추출해서 유저 맞춤형 맛집을 추천해주는 새로운 방법을 제공합니다.
 
 # System Design
 
