@@ -1,7 +1,8 @@
 
 # 🍱 맛집 추천 SNS EAT(Eat And Tell)
 
-[Team15_포스터.pdf](https://github.com/user-attachments/files/16862559/Team15_.pdf)
+![Team15_포스터](https://github.com/user-attachments/assets/14ab55bf-38b3-4d07-9d16-a1f929b5084c)
+
 
 ## 프로젝트 소개
 - 해당 프로젝트는 2023학년도 2학기 컴퓨터공학부 전공 소프트웨어 개발의 원리와 실습 수업으로 진행된 프로젝트로, 팀원들이 직접 고안한 서비스 컨셉과 기획을 바탕으로 안드로이드 어플을 개발한 것입니다.
